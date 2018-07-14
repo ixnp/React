@@ -1,0 +1,63 @@
+[debug] [2018-07-14T23:54:02.905Z] ----------------------------------------------------------------------
+[debug] [2018-07-14T23:54:02.911Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ix\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2018-07-14T23:54:02.911Z] CLI Version:   3.19.3
+[debug] [2018-07-14T23:54:02.912Z] Platform:      win32
+[debug] [2018-07-14T23:54:02.912Z] Node Version:  v8.9.3
+[debug] [2018-07-14T23:54:02.913Z] Time:          Sat Jul 14 2018 16:54:02 GMT-0700 (Pacific Daylight Time)
+[debug] [2018-07-14T23:54:02.913Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-07-14T23:54:02.925Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2018-07-14T23:54:02.939Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ix\Projects\ReactRaf\rafffff
+
+[debug] [2018-07-14T23:54:29.254Z] ----------------------------------------------------------------------
+[debug] [2018-07-14T23:54:29.254Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ix\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2018-07-14T23:54:29.258Z] CLI Version:   3.19.3
+[debug] [2018-07-14T23:54:29.258Z] Platform:      win32
+[debug] [2018-07-14T23:54:29.258Z] Node Version:  v8.9.3
+[debug] [2018-07-14T23:54:29.259Z] Time:          Sat Jul 14 2018 16:54:29 GMT-0700 (Pacific Daylight Time)
+[debug] [2018-07-14T23:54:29.259Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-07-14T23:54:29.269Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2018-07-14T23:54:29.271Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ix\Projects\ReactRaf\rafffff
+
+[debug] [2018-07-14T23:55:04.199Z] ----------------------------------------------------------------------
+[debug] [2018-07-14T23:55:04.216Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ix\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] [2018-07-14T23:55:04.216Z] CLI Version:   3.19.3
+[debug] [2018-07-14T23:55:04.217Z] Platform:      win32
+[debug] [2018-07-14T23:55:04.217Z] Node Version:  v8.9.3
+[debug] [2018-07-14T23:55:04.217Z] Time:          Sat Jul 14 2018 16:55:04 GMT-0700 (Pacific Daylight Time)
+[debug] [2018-07-14T23:55:04.217Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-07-14T23:55:04.247Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2018-07-14T23:55:04.253Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ix\Projects\ReactRaf\rafffff
+
